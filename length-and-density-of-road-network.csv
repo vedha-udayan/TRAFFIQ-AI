@@ -1,0 +1,271 @@
+Year,Category,Subcategory,Value
+1980,Length of road,Motorways,15.0
+1980,Length of road,Main roads,837.0
+1980,Length of road,Secondary roads,578.0
+1980,Length of road,Other roads,345.0
+1980,Vehicles per KM of road,,39.0
+1980,Density of Road Network,,0.95
+1981,Length of road,Motorways,22.0
+1981,Length of road,Main roads,837.0
+1981,Length of road,Secondary roads,578.0
+1981,Length of road,Other roads,345.0
+1981,Vehicles per KM of road,,39.0
+1981,Density of Road Network,,0.96
+1982,Length of road,Motorways,27.0
+1982,Length of road,Main roads,837.0
+1982,Length of road,Secondary roads,578.0
+1982,Length of road,Other roads,339.0
+1982,Vehicles per KM of road,,40.0
+1982,Density of Road Network,,0.95
+1983,Length of road,Motorways,27.0
+1983,Length of road,Main roads,838.0
+1983,Length of road,Secondary roads,577.0
+1983,Length of road,Other roads,339.0
+1983,Vehicles per KM of road,,41.0
+1983,Density of Road Network,,0.95
+1984,Length of road,Motorways,27.0
+1984,Length of road,Main roads,838.0
+1984,Length of road,Secondary roads,577.0
+1984,Length of road,Other roads,339.0
+1984,Vehicles per KM of road,,42.0
+1984,Density of Road Network,,0.95
+1985,Length of road,Motorways,27.0
+1985,Length of road,Main roads,840.0
+1985,Length of road,Secondary roads,577.0
+1985,Length of road,Other roads,339.0
+1985,Vehicles per KM of road,,42.0
+1985,Density of Road Network,,0.96
+1986,Length of road,Motorways,27.0
+1986,Length of road,Main roads,840.0
+1986,Length of road,Secondary roads,577.0
+1986,Length of road,Other roads,339.0
+1986,Vehicles per KM of road,,44.0
+1986,Density of Road Network,,0.96
+1987,Length of road,Motorways,27.0
+1987,Length of road,Main roads,840.0
+1987,Length of road,Secondary roads,577.0
+1987,Length of road,Other roads,339.0
+1987,Vehicles per KM of road,,48.0
+1987,Density of Road Network,,0.96
+1988,Length of road,Motorways,29.0
+1988,Length of road,Main roads,856.0
+1988,Length of road,Secondary roads,577.0
+1988,Length of road,Other roads,339.0
+1988,Vehicles per KM of road,,53.0
+1988,Density of Road Network,,0.97
+1989,Length of road,Motorways,29.0
+1989,Length of road,Main roads,856.0
+1989,Length of road,Secondary roads,577.0
+1989,Length of road,Other roads,339.0
+1989,Vehicles per KM of road,,60.0
+1989,Density of Road Network,,0.97
+1990,Length of road,Motorways,29.0
+1990,Length of road,Main roads,856.0
+1990,Length of road,Secondary roads,577.0
+1990,Length of road,Other roads,339.0
+1990,Vehicles per KM of road,,69.0
+1990,Density of Road Network,,0.97
+1991,Length of road,Motorways,29.0
+1991,Length of road,Main roads,886.0
+1991,Length of road,Secondary roads,577.0
+1991,Length of road,Other roads,339.0
+1991,Vehicles per KM of road,,77.0
+1991,Density of Road Network,,0.98
+1992,Length of road,Motorways,29.0
+1992,Length of road,Main roads,886.0
+1992,Length of road,Secondary roads,577.0
+1992,Length of road,Other roads,339.0
+1992,Vehicles per KM of road,,85.0
+1992,Density of Road Network,,0.98
+1993,Length of road,Motorways,29.0
+1993,Length of road,Main roads,886.0
+1993,Length of road,Secondary roads,582.0
+1993,Length of road,Other roads,384.0
+1993,Vehicles per KM of road,,89.0
+1993,Density of Road Network,,1.01
+1994,Length of road,Motorways,29.0
+1994,Length of road,Main roads,902.0
+1994,Length of road,Secondary roads,582.0
+1994,Length of road,Other roads,384.0
+1994,Vehicles per KM of road,,95.0
+1994,Density of Road Network,,1.02
+1995,Length of road,Motorways,31.0
+1995,Length of road,Main roads,902.0
+1995,Length of road,Secondary roads,582.0
+1995,Length of road,Other roads,384.0
+1995,Vehicles per KM of road,,101.0
+1995,Density of Road Network,,1.02
+1996,Length of road,Motorways,31.0
+1996,Length of road,Main roads,902.0
+1996,Length of road,Secondary roads,582.0
+1996,Length of road,Other roads,390.0
+1996,Vehicles per KM of road,,105.0
+1996,Density of Road Network,,1.02
+1997,Length of road,Motorways,31.0
+1997,Length of road,Main roads,902.0
+1997,Length of road,Secondary roads,582.0
+1997,Length of road,Other roads,390.0
+1997,Vehicles per KM of road,,111.0
+1997,Density of Road Network,,1.02
+1998,Length of road,Motorways,36.0
+1998,Length of road,Main roads,902.0
+1998,Length of road,Secondary roads,582.0
+1998,Length of road,Other roads,390.0
+1998,Vehicles per KM of road,,114.0
+1998,Density of Road Network,,1.02
+1999,Length of road,Motorways,36.0
+1999,Length of road,Main roads,902.0
+1999,Length of road,Secondary roads,582.0
+1999,Length of road,Other roads,390.0
+1999,Vehicles per KM of road,,122.0
+1999,Density of Road Network,,1.02
+2000,Length of road,Motorways,44.0
+2000,Length of road,Main roads,910.0
+2000,Length of road,Secondary roads,582.0
+2000,Length of road,Other roads,390.0
+2000,Vehicles per KM of road,,127.0
+2000,Density of Road Network,,1.03
+2001,Length of road,Motorways,60.0
+2001,Length of road,Main roads,950.0
+2001,Length of road,Secondary roads,592.0
+2001,Length of road,Other roads,398.0
+2001,Vehicles per KM of road,,128.0
+2001,Density of Road Network,,1.07
+2002,Length of road,Motorways,60.0
+2002,Length of road,Main roads,950.0
+2002,Length of road,Secondary roads,592.0
+2002,Length of road,Other roads,398.0
+2002,Vehicles per KM of road,,133.0
+2002,Density of Road Network,,1.07
+2003,Length of road,Motorways,75.0
+2003,Length of road,Main roads,950.0
+2003,Length of road,Secondary roads,592.0
+2003,Length of road,Other roads,398.0
+2003,Vehicles per KM of road,,137.0
+2003,Density of Road Network,,1.08
+2004,Length of road,Motorways,75.0
+2004,Length of road,Main roads,955.0
+2004,Length of road,Secondary roads,592.0
+2004,Length of road,Other roads,398.0
+2004,Vehicles per KM of road,,144.0
+2004,Density of Road Network,,1.08
+2005,Length of road,Motorways,75.0
+2005,Length of road,Main roads,955.0
+2005,Length of road,Secondary roads,592.0
+2005,Length of road,Other roads,398.0
+2005,Vehicles per KM of road,,151.0
+2005,Density of Road Network,,1.08
+2006,Length of road,Motorways,75.0
+2006,Length of road,Main roads,955.0
+2006,Length of road,Secondary roads,593.0
+2006,Length of road,Other roads,398.0
+2006,Vehicles per KM of road,,158.0
+2006,Density of Road Network,,1.08
+2007,Length of road,Motorways,75.0
+2007,Length of road,Main roads,962.0
+2007,Length of road,Secondary roads,593.0
+2007,Length of road,Other roads,398.0
+2007,Vehicles per KM of road,,165.0
+2007,Density of Road Network,,1.09
+2008,Length of road,Motorways,75.0
+2008,Length of road,Main roads,962.0
+2008,Length of road,Secondary roads,593.0
+2008,Length of road,Other roads,398.0
+2008,Vehicles per KM of road,,173.0
+2008,Density of Road Network,,1.09
+2009,Length of road,Motorways,75.0
+2009,Length of road,Main roads,1000.0
+2009,Length of road,Secondary roads,593.0
+2009,Length of road,Other roads,398.0
+2009,Vehicles per KM of road,,177.0
+2009,Density of Road Network,,1.11
+2010,Length of road,Motorways,75.0
+2010,Length of road,Main roads,1014.0
+2010,Length of road,Secondary roads,593.0
+2010,Length of road,Other roads,398.0
+2010,Vehicles per KM of road,,185.0
+2010,Density of Road Network,,1.12
+2011,Length of road,Motorways,82.0
+2011,Length of road,Main roads,1035.0
+2011,Length of road,Secondary roads,595.0
+2011,Length of road,Other roads,400.0
+2011,Vehicles per KM of road,,190.0
+2011,Density of Road Network,,1.13
+2012,Length of road,Motorways,86.0
+2012,Length of road,Main roads,1068.0
+2012,Length of road,Secondary roads,608.0
+2012,Length of road,Other roads,408.0
+2012,Vehicles per KM of road,,194.0
+2012,Density of Road Network,,1.16
+2013,Length of road,Motorways,99.0
+2013,Length of road,Main roads,1131.0
+2013,Length of road,Secondary roads,625.0
+2013,Length of road,Other roads,420.0
+2013,Vehicles per KM of road,,195.0
+2013,Density of Road Network,,1.22
+2014,Length of road,Motorways,99.0
+2014,Length of road,Main roads,1131.0
+2014,Length of road,Secondary roads,673.0
+2014,Length of road,Other roads,453.0
+2014,Vehicles per KM of road,,197.0
+2014,Density of Road Network,,1.26
+2015,Length of road,Motorways,99.0
+2015,Length of road,Main roads,1131.0
+2015,Length of road,Secondary roads,716.0
+2015,Length of road,Other roads,482.0
+2015,Vehicles per KM of road,,200.0
+2015,Density of Road Network,,1.3
+2016,Length of road,Motorways,100.0
+2016,Length of road,Main roads,1137.0
+2016,Length of road,Secondary roads,756.0
+2016,Length of road,Other roads,509.0
+2016,Vehicles per KM of road,,203.0
+2016,Density of Road Network,,1.34
+2017,Length of road,Motorways,100.0
+2017,Length of road,Main roads,1137.0
+2017,Length of road,Secondary roads,833.0
+2017,Length of road,Other roads,561.0
+2017,Vehicles per KM of road,,202.0
+2017,Density of Road Network,,1.41
+2018,Length of road,Motorways,104.0
+2018,Length of road,Main roads,1140.0
+2018,Length of road,Secondary roads,871.0
+2018,Length of road,Other roads,586.0
+2018,Vehicles per KM of road,,206.0
+2018,Density of Road Network,,1.45
+2019,Length of road,Motorways,104.0
+2019,Length of road,Main roads,1140.0
+2019,Length of road,Secondary roads,913.0
+2019,Length of road,Other roads,615.0
+2019,Vehicles per KM of road,,209.0
+2019,Density of Road Network,,1.48
+2020,Length of road,Motorways,104.0
+2020,Length of road,Main roads,1145.0
+2020,Length of road,Secondary roads,950.0
+2020,Length of road,Other roads,640.0
+2020,Vehicles per KM of road,,211.0
+2020,Density of Road Network,,1.52
+2021,Length of road,Motorways,104.0
+2021,Length of road,Main roads,1149.0
+2021,Length of road,Secondary roads,1029.0
+2021,Length of road,Other roads,693.0
+2021,Vehicles per KM of road,,209.0
+2021,Density of Road Network,,1.6
+2022,Length of road,Motorways,104.0
+2022,Length of road,Main roads,1175.0
+2022,Length of road,Secondary roads,1061.0
+2022,Length of road,Other roads,715.0
+2022,Vehicles per KM of road,,212.0
+2022,Density of Road Network,,1.64
+2023,Length of road,Motorways,104.0
+2023,Length of road,Main roads,1180.0
+2023,Length of road,Secondary roads,1102.0
+2023,Length of road,Other roads,743.0
+2023,Vehicles per KM of road,,216.0
+2023,Density of Road Network,,1.68
+2024,Length of road,Motorways,104.0
+2024,Length of road,Main roads,1180.0
+2024,Length of road,Secondary roads,1150.0
+2024,Length of road,Other roads,760.0
+2024,Vehicles per KM of road,,222.0
+2024,Density of Road Network,,1.71
