@@ -1,4 +1,4 @@
-# SHECodes — Mauritius Traffic Mobility Prototype
+# TRAFFIQ-AI — Mauritius Traffic Mobility Prototype
 
 ## What this app does
 - Uses the Mauritius Open Data Portal CSV `length-and-density-of-road-network.csv` (1980–2024).
